@@ -11,6 +11,7 @@
     "url": "git+https://github.com/back2arie/uuid-grep.git"
   },
   "homepage": "https://github.com/back2arie/uuid-grep",
+  "bin": "./index.js",
   "keywords": [
     "uuid",
     "grep",

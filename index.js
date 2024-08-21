@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 function uuidGrep() {
 
     const readline = require('readline');

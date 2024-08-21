@@ -16,6 +16,8 @@ npm install uuid-grep
 waybackurls target.com | uuid-grep
 ```
 
+![Demo](./demo.png)
+
 ### From File
 
 ```bash
