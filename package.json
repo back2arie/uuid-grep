@@ -1,0 +1,22 @@
+{
+  "name": "uuid-grep",
+  "version": "0.0.1",
+  "description": "Simple CLI utility to search UUID from string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/back2arie/uuid-grep.git"
+  },
+  "homepage": "https://github.com/back2arie/uuid-grep",
+  "keywords": [
+    "uuid",
+    "grep",
+    "cli",
+    "commandline"
+  ],
+  "author": "Azhari Harahap",
+  "license": "MIT"
+}
